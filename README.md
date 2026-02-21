@@ -1,4 +1,4 @@
-# Hi 👋, I'm Abhi
+# Hi 👋, I'm Abhishek
 
 🎓 B.Tech Student  
 💻 C++ Developer | Data Structures & Algorithms  
