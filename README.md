@@ -13,7 +13,7 @@
 - 💡 Strong interest in Data Structures and Algorithms
 - 🔭 Preparing for Google Summer of Code (GSoC)
 - 🤝 Open to collaborate on open-source projects
-- 📫 Reach me at: your-email@example.com
+- 📫 Reach me at: abhishekpatel190104@gmail.com
 
 ---
 
@@ -22,7 +22,10 @@
 ### 👨‍💻 Programming Languages
 - C++
 - C
-- Python (Basic)
+- Python
+- React
+- Javascript
+- Node.js
 
 ### 📚 Core Concepts
 - Data Structures
@@ -68,18 +71,6 @@
 - 🌍 Contributing to open-source
 - 🎯 Target: Become a GSoC Contributor
 - 📈 Improving problem-solving consistency
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
-
 
 ---
 
