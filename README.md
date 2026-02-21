@@ -1,1 +1,100 @@
-# Abhishek-Patel
+# Hi 👋, I'm Abhi
+
+🎓 B.Tech Student  
+💻 C++ Developer | Data Structures & Algorithms  
+🚀 Open Source Enthusiast | GSoC Aspirant  
+📍 India  
+
+---
+
+## 🚀 About Me
+
+- 🌱 Currently improving problem solving and system design
+- 💡 Strong interest in Data Structures and Algorithms
+- 🔭 Preparing for Google Summer of Code (GSoC)
+- 🤝 Open to collaborate on open-source projects
+- 📫 Reach me at: your-email@example.com
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+- C++
+- C
+- Python (Basic)
+
+### 📚 Core Concepts
+- Data Structures
+- Algorithms
+- Object-Oriented Programming
+- Operating Systems (Basics)
+- DBMS (Basics)
+
+### 🔧 Tools & Platforms
+- Git & GitHub
+- VS Code
+- Linux (Basic)
+- Postman
+
+---
+
+## 📂 Featured Projects
+
+### 📌 1. Data Structures Implementation (C++)
+- Implemented Stack, Queue, Linked List, Trees, Graphs
+- Included sorting and searching algorithms
+- Written clean modular code with explanations
+
+### 📌 2. Library Management System (C++)
+- Console-based project
+- Book issue/return system
+- File handling implemented
+
+### 📌 3. Sorting Visualizer
+- Visual representation of sorting algorithms
+- Demonstrates time complexity concepts
+
+### 📌 4. REST API Project (Basic)
+- CRUD operations
+- JSON handling
+- API testing with Postman
+
+---
+
+## 🏆 Achievements & Goals
+
+- 💪 Solving DSA problems regularly
+- 🌍 Contributing to open-source
+- 🎯 Target: Become a GSoC Contributor
+- 📈 Improving problem-solving consistency
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/abhishek-patel-5565a7280
+- 🧑‍💻 GitHub: https://github.com/Abhishekpatel-1
+- 📧 Email: abhishekpatel190104@gmail.com
+
+---
+
+## 💡 Quote I Follow
+
+> "Consistency beats intensity."
+
+---
+
+⭐ If you like my work, feel free to explore my repositories!
